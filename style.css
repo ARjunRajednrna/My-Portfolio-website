@@ -1143,4 +1143,8 @@ footer h1 {
   .menu-icon {
     font-size: 28px;
   }
+  .autoBlur {
+    animation: none;
+    filter: none;
+  }
 }
