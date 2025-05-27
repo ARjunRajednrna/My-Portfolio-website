@@ -51,12 +51,10 @@ git clone https://github.com/ARjunRajednrna/Portfolio-Website.git
 cd Portfolio-Website
 
 
-Run Locally:
+Website Link:
+https://my-portfolio-website-indol-nine.vercel.app/
 
-Open index.html in a browser (e.g., Chrome).
-Or use a local server:npx http-server
 
-Visit http://localhost:8080.
 
 
 Verify Assets:
